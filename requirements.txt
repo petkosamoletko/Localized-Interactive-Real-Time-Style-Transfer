@@ -1,0 +1,9 @@
+# Python==3.9.16
+numpy==1.24.3
+torch==2.0.0 # or latest version
+torchvision==0.15.0 # or latest version
+opencv-python==4.8.0.76 # or latest version
+PySide6==6.5.1.1
+Pillow==9.4.0 # or latest version
+#segment anything (SAM) is installed from its respective GitHub repository
+git+https://github.com/facebookresearch/segment-anything.git
